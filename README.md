@@ -1,11 +1,13 @@
 Welcome to the SQL Data Exploration project focused on COVID-19. In this repository, we delve into the realm of SQL to analyze and extract insights from datasets related to the COVID-19 pandemic.
 
 Features:
+
 Data Analysis: Utilize SQL queries to perform in-depth analysis of COVID-19 datasets.
 Insight Extraction: Extract valuable insights and trends from the data to better comprehend the dynamics of the pandemic.
 Visualization: Visualize the analyzed data using various SQL functions and techniques, creating informative charts and graphs.
 
 Usage:
+
 Explore the SQL Scripts:
 Browse through the SQL scripts provided to understand the queries used for data analysis.
 Run Queries:
