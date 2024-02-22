@@ -1,3 +1,4 @@
+# First project : SQL Data exploration 
 Welcome to the SQL Data Exploration project focused on COVID-19. In this repository, we delve into the realm of SQL to analyze and extract insights from datasets related to the COVID-19 pandemic.
 
 Features:
@@ -37,6 +38,7 @@ Windows Functions
 Aggregate Functions
 Creating Views
 
-
 Acknowledgments
 Special thanks to the YouTube channel "Alex the Analyst" for his contributions to my learning of data analysis, his videos and SQL techniques.
+
+# Second project : SQL Data Cleaning 
