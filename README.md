@@ -1,5 +1,4 @@
 # First project : SQL Data exploration 
-Welcome to the SQL Data Exploration project focused on COVID-19. In this repository, we delve into the realm of SQL to analyze and extract insights from datasets related to the COVID-19 pandemic.
 
 Features:
 
@@ -42,3 +41,36 @@ Acknowledgments
 Special thanks to the YouTube channel "Alex the Analyst" for his contributions to my learning of data analysis, his videos and SQL techniques.
 
 # Second project : SQL Data Cleaning 
+
+Features:
+
+Data Analysis: Utilize SQL queries to clean and perform analysis of housing datasets in Nashville.
+
+Usage:
+
+Exploring SQL Scripts:
+Take a look at the provided SQL scripts to understand the data cleaning techniques and queries used for processing the Nashville house dataset.
+Running Queries:
+Execute the SQL queries using your preferred SQL database management system (e.g., MySQL, PostgreSQL, SQLite) to clean the dataset according to the defined criteria and standards.
+Analyzing Cleaned Data:
+Utilize the cleaned dataset for further analysis, visualization, or integration into other analytics tools to extract valuable insights into the Nashville housing market.
+
+Aim:
+The primary objective of this project is to perform comprehensive data cleaning in SQL for the Nashville house dataset. By cleaning the dataset, we aim to ensure data accuracy, consistency, and reliability, laying a solid foundation for further analysis and insights extraction. The cleaned dataset will facilitate better understanding of housing market trends and dynamics in Nashville.
+
+Project Structure:
+
+Scripts:
+Contains SQL scripts specifically designed for data cleaning tasks, including procedures for standardizing data formats, and removing duplicates.
+Data:
+Stores the Nashville house dataset and any associated data files used in the cleaning process. This folder ensures easy access to the raw and cleaned datasets for reference and analysis.
+
+Skills Used:
+
+Joins
+Converting Data Types
+CTEs (Common Table Expressions)
+Temp Tables (Temporary Tables)
+Windows Functions
+Aggregate Functions
+Creating Views
